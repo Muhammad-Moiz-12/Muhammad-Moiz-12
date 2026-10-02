@@ -1,8 +1,8 @@
 ## Hi there 👋
 Muhammad Moiz
 
-I am a Data Science student in UET Lahore currently enrolled in 3rd semester
-i work on different projects regarding web development and software development 
+I am a Data Science student in UET Lahore currently enrolled in 3rd semester.I enjoy turning data into useful insights and building solution that solves real life problems . i work with python c# and other languages
+
 I worked on fiver on different work including software development and web development
 ## Skills & Technologies
 full stack developer and software developer 
@@ -24,17 +24,3 @@ Sem 3 UET
 - Email: moizamjad78692@gmail.com
 - GitHub: Muhammad-Moiz-12
 
-<!--
-**Muhammad-Moiz-12/Muhammad-Moiz-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
